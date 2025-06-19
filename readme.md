@@ -1,5 +1,5 @@
 ## AUTHOR:
-Nagamani
+Nagamani Menda
 
 BTech CSE Student
 

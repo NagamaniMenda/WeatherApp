@@ -1,6 +1,38 @@
+## AUTHOR:
+Nagamani
+
+BTech CSE Student
+
+Weather App Project using Python
+
+IBI intern on python
+
 # Weather Forecast Dashboard App
 
 This is a beginner-friendly Weather App built using Python, Tkinter, and the OpenWeatherMap API. It fetches real-time weather data for any city you enter and displays it in a user-friendly interface — with weather-specific icons and dynamic background images based on current conditions.
+
+## Project Overview
+The Weather Forecast Dashboard App is a beginner-friendly Python project that fetches real-time weather data for any city using the OpenWeatherMap API. The app features a dynamic background that changes based on weather conditions, such as clear skies, clouds, rain, snow, and storms. It uses Tkinter for the graphical interface and Pillow to handle image processing.
+
+This project is ideal for learning how to:
+
+Interact with public APIs
+
+Parse JSON data
+
+Build desktop GUI apps in Python
+
+Display weather icons and themed backgrounds
+
+Manage files with Git and upload to GitHub
+
+# Users can:
+
+Enter a city name to view the weather
+
+See temperature, humidity, and description
+
+Get a visual background that matches the weather type
 
 ## Features
 
@@ -22,6 +54,13 @@ This is a beginner-friendly Weather App built using Python, Tkinter, and the Ope
 ## Screenshots
 
 (Add screenshots of your app showing clear, cloudy, rainy, etc. conditions here.)
+
+####  Main Interface
+![rain](IBI/rain.png)
+
+####  Rainy Weather View
+![Rain View](images/screenshot2.png)
+
 
 ## How to Run
 
@@ -47,18 +86,18 @@ storm.jpg
 
 default.jpg
 
-*Run the app:*
+## Run the app:
 
 bash
 Copy
 Edit
 python main.py
-*API Used*
+# API Used
 OpenWeatherMap API: https://openweathermap.org/api
 Sign up and get a free API key.
 Replace the API_KEY in the code with your personal key.
 
-*File Structure*
+## File Structure
 arduino
 Copy
 Edit
@@ -71,12 +110,8 @@ WeatherApp/
 ├── storm.jpg
 ├── default.jpg
 └── README.md
-*AUTHOR:*
-Nagamani
-BTech CSE Student
-Weather App Project using Python
 
-*Future Improvements*
+## Future Improvements
 Add multi-day forecast (3 to 5 days)
 
 Option to switch between Celsius and Fahrenheit

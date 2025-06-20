@@ -53,17 +53,34 @@ Get a visual background that matches the weather type
 
 ## Screenshots
 
+## default
+
+
 ![default](screenshots/default1.PNG)
 
-![rain](rain1.PNG)
+## rain
 
-![clouds](clouds1.PNG)
 
-![clear sky](clear1.PNG)
+![rain](screenshots/rain1.PNG)
 
-![moderate rain](moderaterain1.PNG)
+## clouds
 
-![snow](snow1.PNG)
+
+![clouds](screenshots/clouds1.PNG)
+
+## clear sky
+
+
+![clear sky](screenshots/clear1.PNG)
+
+## moderate rain
+
+
+![moderate rain](screenshots/moderaterain1.PNG)
+
+## snow
+
+![snow](screenshots/snow1.PNG)
 
 
 ## How to Run

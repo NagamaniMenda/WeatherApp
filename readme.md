@@ -55,7 +55,7 @@ Get a visual background that matches the weather type
 ![rain](rain.jpg)
 
 ####  Rainy Weather View
-![Rain View](clear.jpg)
+![Rain View](clearsky.jpg)
 
 
 ## How to Run

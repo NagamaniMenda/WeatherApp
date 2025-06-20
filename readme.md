@@ -52,10 +52,10 @@ Get a visual background that matches the weather type
 - Snow background triggered if temperature is less than or equal to 2°C
 
 ## Screenshots
-![rain](rain.png)
+![rain](rain.jpg)
 
 ####  Rainy Weather View
-![Rain View](images/screenshot2.png)
+![Rain View](clear.jpg)
 
 
 ## How to Run

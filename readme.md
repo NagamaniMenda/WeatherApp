@@ -52,11 +52,7 @@ Get a visual background that matches the weather type
 - Snow background triggered if temperature is less than or equal to 2°C
 
 ## Screenshots
-
-(Add screenshots of your app showing clear, cloudy, rainy, etc. conditions here.)
-
-####  Main Interface
-![rain](IBI/rain.png)
+![rain](rain.png)
 
 ####  Rainy Weather View
 ![Rain View](images/screenshot2.png)

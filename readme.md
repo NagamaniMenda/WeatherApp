@@ -53,7 +53,7 @@ Get a visual background that matches the weather type
 
 ## Screenshots
 
-![default](screenshots/default1.jpg)
+![default](screenshots/default1.PNG)
 
 ![rain](rain1.jpg)
 

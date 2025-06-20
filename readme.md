@@ -53,7 +53,7 @@ Get a visual background that matches the weather type
 
 ## Screenshots
 
-![default](default1.jpg)
+![default](IBI/default1.jpg)
 
 ![rain](rain1.jpg)
 
